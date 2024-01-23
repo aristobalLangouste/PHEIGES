@@ -5,7 +5,7 @@ Jupyter notebooks and selected data for plots and data analysis in research arti
 Jupyter notebook, cured NGS data and exported plots use for the NGS data analysis in Fig. 5.c.
 
 ## PHEIGES_coupling
-Jupyter notebook plaque count data and data analysis used for the estimation of phenotype/genotype coupling in Fig. 4.d, 4.e and supplementary figure 18.
+Jupyter notebook containing plaque count data and data analysis used for the estimation of phenotype/genotype coupling in Fig. 4.d, 4.e and supplementary figure 18.
 
 ## PHEIGES kinetics
 Jupyter notebook, plate reader data and exported plots used in the phage infection kinetics in Fig. 2.d, 6.b and Supplementary Figures 8, 10-a, -b, -c, -d and 31.
